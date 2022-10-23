@@ -1,6 +1,6 @@
 from typing import List
 
-def merge_sort(data) -> None:
+def merge_sort(arr) -> None:
   # Write code here
   if len(arr) > 1:
  
